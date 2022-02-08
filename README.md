@@ -1,1 +1,1 @@
-# John-Harshith-DBMS-Lab-Solution
+# John Harshith DBMS Lab Solution
